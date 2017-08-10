@@ -223,17 +223,17 @@ module.exports = {
 4. 更加贴合未来的标准
 
 ## Angular
-![image](D:\姜\学习\angular\angular2-demo-master\an.png)
+![看这里](https://github.com/jianghongyan728/Angular-/blob/master/an.png)
 
 ## Angular的组件
-![image](D:\姜\学习\angular\angular2-demo-master\kk.png)
+![看这里](https://github.com/jianghongyan728/Angular-/blob/master/kk.png)
 
 ## 数据绑定
-![image](D:\姜\学习\angular\angular2-demo-master\shu.png)
+![看这里](https://github.com/jianghongyan728/Angular-/blob/master/shu.png)
 
 ## Angular的指令
 
-![image](D:\姜\学习\angular\angular2-demo-master\zhi.png)
+![看这里](https://github.com/jianghongyan728/Angular-/blob/master/zhi.png)
 
 
 
